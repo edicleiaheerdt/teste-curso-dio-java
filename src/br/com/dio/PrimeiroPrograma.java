@@ -6,10 +6,10 @@ public class PrimeiroPrograma {
 
 	public static void main(String[] args) {
 		
-		Gato gato1 = new Gato();
+		Gato gato = new Gato();
 		Livros livros = new Livros();
 		
-		System.out.println(gato1);
+		System.out.println(gato);
 		System.out.println(livros);
 		
 		/*int a = 2;
